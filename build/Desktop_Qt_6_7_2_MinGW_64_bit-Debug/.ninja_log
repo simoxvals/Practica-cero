@@ -1,0 +1,8 @@
+# ninja log v6
+9	356	7457787796416840	Practica00_autogen/timestamp	af01b783235eb96a
+9	356	7457787796416840	Practica00_autogen/mocs_compilation.cpp	af01b783235eb96a
+9	356	7457787796416840	C:/Users/HP/OneDrive/green/Ingenieria/II/Info II/Practica00/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Practica00_autogen/timestamp	af01b783235eb96a
+9	356	7457787796416840	C:/Users/HP/OneDrive/green/Ingenieria/II/Info II/Practica00/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Practica00_autogen/mocs_compilation.cpp	af01b783235eb96a
+364	506	7457787797481260	CMakeFiles/Practica00.dir/Practica00_autogen/mocs_compilation.cpp.obj	94c1ae06915dde2d
+372	1365	7457787797572211	CMakeFiles/Practica00.dir/main.cpp.obj	d91704f181768b0d
+1368	1642	7457787807521476	Practica00.exe	fc4694d7e46c4a19
