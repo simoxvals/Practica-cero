@@ -71,4 +71,9 @@ CMakeLists.txt.user*
 # --------
 *.dll
 *.exe
+# Ocultar archivos y carpetas específicas
+build/
+CMakeLists.txt
+.gitignore
+
 
